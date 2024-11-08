@@ -46,6 +46,7 @@
     "chainID": "0xba5ee",
     "eip1559BaseFeeMinValueTransition": "0x1",
     "eip1559BaseFeeMinValue": "0x86ff51",
+    "terminalTotalDifficulty": "0x0",
     "ontakeTransition": "0x1"
   },
   "genesis": {
