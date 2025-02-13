@@ -1,4 +1,14 @@
-# Surge
+<p align="center">
+  <img src="./.github/SurgeLogoOnly.svg" width="80" alt="Logo for Surge" />
+</p>
+
+<h1 align="center">
+  Surge Rollup
+</h1>
+
+<p align="center">
+  A vanilla implementation of Taiko stack based rollup.
+</p>
 
 ## Repository Links
 
