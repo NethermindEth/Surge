@@ -30,7 +30,7 @@
 | **ETH as bond token** | ✅ Done |
 | **Preconfirmations** | 🚧 In Progress |
 | **Interop with the base layer (Composability)** | 🚧 In Progress |
-| **Delayed Inbox for CT** | 🚧 In Progress |
+| **Delayed Inbox for Censorship Resistence** | 🚧 In Progress |
 | **Proof Aggregation** | 🚧 In Progress |
 | **Nethermind TDX Prover** | 🔜 To Do |
-| **Improved Fund security by defaulting to Risc0 in case all the multiprovers disagree** | 🔜 To Do |
+| **Improved bridged assets security by defaulting to Risc0 in case all the multiprovers disagree** | 🔜 To Do |
