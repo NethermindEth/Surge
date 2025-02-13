@@ -27,7 +27,7 @@
 |---------|--------|
 | **Stage2 protocol design** | ✅ Done |
 | **Nethermind Client support** | ✅ Done |
-| **ETH as bond token** | ✅ Done |
+| **Use Eth as bond** | ✅ Done |
 | **Preconfirmations** | 🚧 In Progress |
 | **Interop with the base layer (Composability)** | 🚧 In Progress |
 | **Delayed Inbox for Censorship Resistence** | 🚧 In Progress |
