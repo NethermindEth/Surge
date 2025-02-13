@@ -15,6 +15,7 @@
 - [Surge Taiko Mono](https://github.com/NethermindEth/surge-taiko-mono): Monorepo containing the codebase for the Surge Rollup, built on the Taiko stack.
 - [Nethermind](https://github.com/NethermindEth/nethermind): The Nethermind execution client.
 - [Raiko](https://github.com/NethermindEth/raiko): Surge's prover client
+- [SP1](https://github.com/NethermindEth/sp1): SP1 prover for Surge
 - [Surge Documentation](https://github.com/NethermindEth/surge-docs): Comprehensive documentation for Surge, including setup guides and technical details.
 - [Simple Surge Node](https://github.com/NethermindEth/simple-surge-node): A simplified presetup docker compose of a Surge node for developers.
 - [Surge Devnet Package](https://github.com/NethermindEth/surge-devnet-package): A kurtosis package to help setup a devnet for a Surge L2
