@@ -24,14 +24,15 @@
 
 ## Roadmap
 
-| Feature | Status |
-|---------|--------|
-| **Stage2 protocol design** | ✅ Done |
-| **Nethermind Client support** | ✅ Done |
-| **Use Eth as bond** | ✅ Done |
-| **Preconfirmations** | 🚧 In Progress |
-| **Interop with the base layer (Composability)** | 🚧 In Progress |
-| **Delayed Inbox for Censorship Resistence** | 🚧 In Progress |
-| **Proof Aggregation** | 🚧 In Progress |
-| **Nethermind TDX Prover** | 🔜 To Do |
+| Feature                                                  | Status           |
+|----------------------------------------------------------|------------------|
+| **Stage2 protocol design**                               | ✅ Done         |
+| **Nethermind Client support**                            | ✅ Done         |
+| **Use Eth as bond**                                      | ✅ Done         |
+| **Preconfirmations**                                     | 🚧 In Progress  |
+| **Interop with the base layer (Composability)**          | 🚧 In Progress  |
+| **Delayed Inbox for Censorship Resistence**              | 🚧 In Progress  |
+| **Proof Aggregation**                                    | 🚧 In Progress  |
+| **Prover Election/Auction**                              | 🔜 To Do        |
+| **Nethermind TDX Prover**                                | 🔜 To Do        |
 | **Improved bridged assets security by defaulting to Risc0 in case all the multiprovers disagree** | 🔜 To Do |
