@@ -31,7 +31,7 @@
 | **Use Eth as bond**                                      | ✅ Done         |
 | **Preconfirmations**                                     | 🚧 In Progress  |
 | **Interop with the base layer (Composability)**          | 🚧 In Progress  |
-| **Delayed Inbox for Censorship Resistence**              | 🚧 In Progress  |
+| **Delayed Inbox for Censorship Resistance**              | 🚧 In Progress  |
 | **Proof Aggregation**                                    | 🚧 In Progress  |
 | **Prover Election/Auction**                              | 🔜 To Do        |
 | **Nethermind TDX Prover**                                | 🔜 To Do        |
