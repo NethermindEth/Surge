@@ -50,3 +50,4 @@ Supporting libraries:
 | **Proof Aggregation**                                                                             | 🚧 In Progress  |
 | **Nethermind TDX Prover**                                                                         | 🚧 In Progress  |
 | **Prover Election/Auction**                                                                       | 🔜 To Do        |
+| **Utilize Blob Sharing**                                                                          | 🔜 To Do        |
