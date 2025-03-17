@@ -42,7 +42,7 @@ Supporting libraries:
 | **Preconfirmations**                                                                              | 🚧 In Progress  |
 | **Interop with the base layer (Composability)**                                                   | 🚧 In Progress  |
 | **Delayed Inbox for Censorship Resistance**                                                       | 🚧 In Progress  |
-| **Add Cancun and Prague EIPs support                                                           ** | 🔜 To Do        |
+| **Add Cancun and Prague EIPs support**                                                            | 🔜 To Do        |
 | **Improved bridged assets security by defaulting to Risc0 in case all the multiprovers disagree** | 🔜 To Do        |
 
 ### Milestone 3: Surge Power-Ups Plus
