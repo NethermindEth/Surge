@@ -16,9 +16,12 @@ Surge is a high-performance, based rollup template built on a modified Taiko sta
 
 Learn more at https://www.surge.wtf or check out the official docs at https://docs.surge.wtf.
 
-This repository holds essential configuration files for different Surge testnets. These files define the network parameters and initial states for each testnet, providing the foundation upon which Surge operates.
+## What is this repo?
 
-## Repository Links
+This repository contains chain specifications for different Surge testnets. These files define the network parameters and initial states required to set up and operate Surge testnets. If you want to run an execution client with a modified chainspec, you can take these files and customize them as needed.
+
+
+The core codebase for Surge resides in the [Surge Taiko Mono](https://github.com/NethermindEth/surge-taiko-mono) repository, while other repositories provide supporting tools, libraries, and documentation to facilitate development and deployment.
 
 - [Surge Taiko Mono](https://github.com/NethermindEth/surge-taiko-mono): Monorepo containing the codebase for the Surge Rollup, built on the Taiko stack.
 - [Nethermind](https://github.com/NethermindEth/nethermind): The Nethermind execution client.
