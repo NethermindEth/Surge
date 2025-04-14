@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  A based rollup template of the Taiko Alethia stack.
+  A based rollup template of the Taiko Alethia stack, featuring GigaGas performance, decentralized ordering by Ethereum validators, and Stage 2 trustless security
 </p>
 
 # Surge Rollup
