@@ -6,7 +6,7 @@
   Surge Rollup
 </h1>
 
-Surge is a high-performance, based rollup template built on a modified Taiko Alethia stack, aligning with Ethereum's principles of decentralization and security and featuring Gigagas performance, decentralized ordering by Ethereum validators, and Stage 2 trustless security
+Surge is a high-performance, based rollup template built on a modified Taiko Alethia stack, aligning with Ethereum's principles of decentralization and security and featuring Gigagas performance, decentralized ordering by Ethereum validators, and Stage 2 trustless security.
 
 Learn more at https://www.surge.wtf or check out the official docs at https://docs.surge.wtf.
 
