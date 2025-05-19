@@ -1,7 +1,9 @@
 {
   "version": "1",
   "engine": {
-    "Taiko": {}
+    "Taiko": {
+      "ontakeTransition": "0x1"
+    }
   },
   "params": {
     "eip150Transition": "0x0",
@@ -46,8 +48,7 @@
     "chainID": "0xba5ef",
     "terminalTotalDifficulty": "0x0",
     "eip1559BaseFeeMinValueTransition": "0x1",
-    "eip1559BaseFeeMinValue": "0x86ff51",
-    "ontakeTransition": "0x1"
+    "eip1559BaseFeeMinValue": "0x86ff51"
   },
   "genesis": {
     "seal": {
