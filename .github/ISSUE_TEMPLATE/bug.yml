@@ -1,0 +1,73 @@
+name: Bug
+description: Report a bug.
+title: "[Bug]: "
+type: "Bug"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is. (attach screenshots if applicable)
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: To Reproduce
+      description: "Steps to reproduce the behavior:"
+      placeholder: "1. Go to '...'\n2. Click on '....'\n3. Scroll down to '....'\n4. See error"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - label: "Windows"
+        - label: "Linux"
+        - label: "macOS"
+        - label: "Other"
+
+  - type: checkboxes
+    id: component
+    attributes:
+      label: What component/service is this issue related to?
+      options:
+        - label: "Bridge UI"
+        - label: "L1 RPC"
+        - label: "L2 RPC"
+        - label: "L1 Relayer"
+        - label: "L2 Relayer"
+        - label: "L2 Explorer"
+        - label: "Safe"
+        - label: "Documentation"
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Logs
+      description: "Attach relevant errorlogs here."
+
+  - type: checkboxes
+    id: is-raised
+    attributes:
+      label: Have you raised this issue in our Telegram and/or Discord channels?
+      options:
+        - label: "Yes"
+  
+  - type: checkboxes
+    id: document
+    attributes:
+      label: Have you checked the documentation?
+      options:
+        - label: "Yes"
+
+  - type: markdown
+    attributes:
+      value: ">Please try to troubleshoot the issue with our documentation - https://docs.surge.wtf/docs/troubleshooting first."
+
+  - type: markdown
+    attributes:
+      value: "## Thank you for submitting an issue! We will get back to you as soon as possible."

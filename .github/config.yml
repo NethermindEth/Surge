@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Surge Documentation
+    url: https://docs.surge.wtf/
+    about: Learn more about Surge here.
+  - name: Nethermind Website
+    url: https://nethermind.io/
+    about: Learn more about Nethermind here.
+  - name: Everything Ethereum R1
+    url: https://t.co/Ke9pYZgNZ2
+    about: Join Ethereum R1 Telegram channel here.

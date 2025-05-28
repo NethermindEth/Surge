@@ -1,0 +1,47 @@
+name: Task
+description: Create a task.
+title: "[Task]: "
+type: "Task"
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Brief Summary
+      placeholder: ex. Implement feature X
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: is-bug
+    attributes:
+      label: Is this related to a bug?
+      options:
+        - label: "Yes"
+
+  - type: input
+    id: bug-link
+    attributes:
+      label: Issue Link
+      description: If this is related to a bug, provide a link to the issue.
+      placeholder: ex. https://github.com/NethermindEth/Surge/issues/1
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Task Details (Preferably TODOs)
+      placeholder: "- Task 1\n- Task 2\n- Task 3"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: deadline
+    attributes:
+      label: Is there a hard deadline?
+      options:
+        - label: "Yes"
+  
+  - type: input
+    id: deadline-date
+    attributes:
+      label: Deadline Date
+      placeholder: 31-12-2025
