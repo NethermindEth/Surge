@@ -41,7 +41,7 @@ The core codebase for Surge resides in the [Surge Taiko Mono](https://github.com
 |---------------------------------------------------------------------------------------------------|------------------|
 | **Preconfirmations**                                                                              | 🚧 In Progress   |
 | **Interop with the base layer (Composability)**                                                   | 🚧 In Progress   |
-| **Delayed Inbox for Censorship Resistance**                                                       | 🚧 In Progress   |
+| **Delayed Inbox for Censorship Resistance**                                                       | ✅ Done          |
 | **Add Cancun and Prague EIPs support**                                                            | 🔜 To Do         |
 | **Improved proving system with failure fallback mechanisms**                                      | 🔜 To Do         |
 
@@ -49,7 +49,7 @@ The core codebase for Surge resides in the [Surge Taiko Mono](https://github.com
 
 | Feature                                                                                           | Status           |
 |---------------------------------------------------------------------------------------------------|------------------|
-| **Proof Aggregation**                                                                             | 🚧 In Progress   |
+| **Proof Aggregation**                                                                             | ✅ Done          |
 | **Nethermind TDX Prover**                                                                         | 🚧 In Progress   |
 | **Prover Election/Auction**                                                                       | 🔜 To Do         |
 | **Utilize Blob Sharing**                                                                          | 🔜 To Do         |
