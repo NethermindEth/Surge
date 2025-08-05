@@ -22,12 +22,8 @@ The core codebase for Surge resides in the [Surge Taiko Mono](https://github.com
 - [Raiko](https://github.com/NethermindEth/raiko): Surge's prover client.
 - [Surge Documentation](https://github.com/NethermindEth/surge-docs): Comprehensive documentation for Surge, including setup guides and technical details.
 - [Simple Surge Node](https://github.com/NethermindEth/simple-surge-node): A simplified presetup docker compose of a Surge node for developers.
-- [Surge Devnet Package](https://github.com/NethermindEth/surge-devnet-package): A kurtosis package to help set up a devnet for a Surge L2.
 - [SP1](https://github.com/NethermindEth/sp1): SP1 prover for Surge.
-
-Supporting libraries:
 - [Surge Reth](https://github.com/NethermindEth/surge-reth): Surge integration with the Reth execution client.
-- [Surge Geth](https://github.com/NethermindEth/surge-geth): Surge integration with the Geth execution client.
 
 ## Roadmap
 
