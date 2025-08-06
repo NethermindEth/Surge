@@ -3,6 +3,7 @@
   "engine": {
     "Taiko": {
       "ontakeTransition": "0x1",
+      "pacayaTransition": "0x1",
       "UseSurgeGasPriceOracle": true
     }
   },
