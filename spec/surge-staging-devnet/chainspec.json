@@ -4,7 +4,8 @@
     "Taiko": {
       "ontakeTransition": "0x1",
       "pacayaTransition": "0x1",
-      "UseSurgeGasPriceOracle": true
+      "UseSurgeGasPriceOracle": true,
+      "taikoL2Address": "0x7633740000000000000000000000000000010001"
     }
   },
   "params": {
