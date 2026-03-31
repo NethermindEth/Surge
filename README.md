@@ -37,7 +37,7 @@ Previously used repositories:
 
 | Feature                                                                                           | Status           |
 |---------------------------------------------------------------------------------------------------|------------------|
-| **Interop with the base layer (Composability)**                                                   | 🚧 Done          |
+| **Interop with the base layer (Composability)**                                                   | ✅ Done          |
 | **Delayed Inbox for Censorship Resistance**                                                       | ✅ Done          |
 | **Realtime ZK Proving**                                                                           | ✅ Done          |
 | **Add Cancun and Prague EIPs support**                                                            | 🔜 To Do         |
